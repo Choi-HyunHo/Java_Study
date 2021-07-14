@@ -12,5 +12,4 @@ public class pjtTest_1 {
 		System.out.println("j = " + j);
 
 	}
-
 }
