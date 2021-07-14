@@ -16,5 +16,4 @@ public class pjtTest_4 {
 		System.out.println("y = " + y);
 
 	}
-
 }
