@@ -6,7 +6,10 @@ public class pjtTest_4 {
 		
 		int x = 10;
 		System.out.println("x += 10 : " + (x += 10));
-
+		System.out.println("x -= 10 : " + (x -= 10));
+		System.out.println("x *= 10 : " + (x *= 10));
+		System.out.println("x /= 10 : " + (x /= 10));
+		System.out.println("x %= 10 : " + (x %= 10));
 	}
 
 }
