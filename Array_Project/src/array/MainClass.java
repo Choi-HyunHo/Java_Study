@@ -32,7 +32,8 @@ public class MainClass {
 		
 		double avg = (double)(score[0] + score[1] + score[2] + score[3] + score[4]) / 5;
 		System.out.printf("--------------------------\n∆Ú ¡° : \t%.2f", avg);
-
+		
+		scanner.close();
 	}
 
 }
