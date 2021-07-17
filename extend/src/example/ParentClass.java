@@ -6,9 +6,9 @@ public class ParentClass {
 		System.out.println("ParentClass constructor");
 	}
 	
-	public void ParentFun() {
+	/*public void ParentFun() {
 		System.out.println("ParentFun()");
-	}
+	}*/
 	
 	/*private void privateFun() {
 		System.out.println("privateFun()");
@@ -16,4 +16,8 @@ public class ParentClass {
 	
 	// 자식 클래스는 부모 클래스의 모든 자원을 사용할 수 있지만, private접근자의
 	// 속성과 메서드는 이용할 수 없다.
+	
+	public void makeRice() {
+		System.out.println("-- makeRice() --");
+	}
 }
