@@ -7,10 +7,6 @@ public class ChildClass extends ParentClass {
 		System.out.println("ChildClass constructor");
 	}
 	
-	/*public void ChildFun() {
-		System.out.println("ChildFun()");
-	}*/
-	
 	@Override
 	public void makeRice() {
 		System.out.println("-- more makeRice --");
